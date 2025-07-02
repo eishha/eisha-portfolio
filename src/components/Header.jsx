@@ -55,7 +55,7 @@ const Header = () => {
           </ul>
         </nav>
         <button className="w-18 h-8 pb-1 bg-[#4876CE] rounded-lg">
-          <a href="public/Resume.pdf" target="blank">
+          <a href="/Resume.pdf" target="blank">
             Resume
           </a>
         </button>
