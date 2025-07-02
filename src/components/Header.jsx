@@ -36,7 +36,7 @@ const Header = () => {
           href="#"
           className="text-2xl font-bold text-lightBlue transition-transform hover:scale-105"
         >
-          <img src="/src/assets/Ellipse 1.png" alt="" />
+          <img src="/src/assets/Ellipse%201.png" alt="" />
         </a>
 
         <nav className="hidden md:block">
@@ -55,7 +55,7 @@ const Header = () => {
           </ul>
         </nav>
         <button className="w-18 h-8 pb-1 bg-[#4876CE] rounded-lg">
-          <a href="src/assets/Resume.pdf" target="blank">
+          <a href="/Resume.pdf" target="blank">
             Resume
           </a>
         </button>
