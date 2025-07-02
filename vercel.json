@@ -16,8 +16,8 @@
   ],
   "routes": [
     {
-      "src": "/your-file.pdf",
-      "dest": "/public/your-file.pdf"
+      "src": "/Resume.pdf",
+      "dest": "/public/Resume.pdf"
     }
   ]
 }
